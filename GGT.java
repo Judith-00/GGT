@@ -26,3 +26,4 @@ class GGT {
 		}
 	}
 } // Änderung
+// 2. Änderung
