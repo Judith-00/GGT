@@ -25,4 +25,4 @@ class GGT {
 			System.out.println("ggT(" + args[0] + "," + args[1] + ") = " + m);
 		}
 	}
-}
+} // Änderung
